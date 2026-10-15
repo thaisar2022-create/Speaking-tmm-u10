@@ -1,0 +1,20 @@
+{
+  "name": "ThaiSar — အခန်း (၁၀) အလုပ်အကိုင်များ",
+  "short_name": "ThaiSar Unit 10",
+  "description": "Thai–Myanmar listening and speaking — Unit 10 Occupations",
+  "lang": "my",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#4d1060",
+  "background_color": "#f8f3fa",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./unit10"
+}
